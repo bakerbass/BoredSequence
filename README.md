@@ -2,6 +2,8 @@
 
 A minimal 8‑step sequencer for Daisy Field. Each of the 8 knobs sets one step’s CV level; the sequence is output on CV Out 1. Knob LEDs indicate the active step.
 
+![fe23e939-b244-4537-adae-073d0a1e17fc](https://github.com/user-attachments/assets/b58a0676-f00c-4bf7-8f07-193961681341)
+
 ## Build and program
 
 Use the provided VS Code tasks:
